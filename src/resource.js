@@ -1,6 +1,7 @@
 var res = {
     bomba_png : "res/bomba.png",
     conejo_png : "res/conejo.png",
+    zanahoria_png: "res/zanahoria.png",
     fondo_png : "res/fondo.png",
 };
 
